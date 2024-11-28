@@ -1,4 +1,4 @@
-# 🌾 Farm-AI: Crop Disease Detection and Prevention Tool
+# 🌾 Farm-AI: A Crop Disease Detection and Prevention Tool
 
 ## Introduction
 **Farm-AI** is an AI-powered tool designed to assist farmers in identifying and preventing crop diseases. By using image analysis and question-answering capabilities, Farm-AI enables farmers to upload photos of potentially diseased crops, receive diagnoses, and get information on disease prevention and treatment. The project aims to improve crop health and productivity, ultimately empowering farmers with actionable insights.
