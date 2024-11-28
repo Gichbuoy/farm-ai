@@ -1,3 +1,5 @@
+// API banner
+
 export function maybeShowApiKeyBanner(key, action = `enter it at the top of
 <code>main.js</code>`) {
   if (key === 'TODO') {
